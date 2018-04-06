@@ -1,8 +1,6 @@
 # Births-in-the-US
 
-## Dataset on births in the U.S
-
-First Data Science Project
+## First Data Science Project
 
 The dataset contains the following columns:
 
